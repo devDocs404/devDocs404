@@ -63,13 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devDocs404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/devDocs404/devDocs404/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/devDocs404/count.svg?"  />
